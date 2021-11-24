@@ -2150,7 +2150,7 @@ function resetLearningPage() {
     currSubjCount = -1;
     document.querySelector(".page.learning.content .cards-container").innerHTML = "";
     document.querySelector(".page.learning.content .container-subjects").remove();
-    document.querySelector(".page.learning.content .practice-btn").remove();
+//     document.querySelector(".page.learning.content .practice-btn").remove();
     document.querySelector(".page.learning.content .back-btn").remove();
 }
 
