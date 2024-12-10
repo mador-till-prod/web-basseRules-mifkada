@@ -307,7 +307,7 @@
                         ],
                         'נשקייה ארמו"ן': [
                             {
-                                cardType: "text",
+                                cardType: "listDots3",
                                 numList: "6",
                                 li1: `שעות פעילות:`,
                                 li2: ` יום א -  09:30-17:00  `,
